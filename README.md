@@ -2,10 +2,9 @@
 
 - 👩‍💻 I am a learning fullstack web developer at M2i Formation.
 
-- 🧠 Language I’m currently learning: <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+- 🧠 Language I’m currently learning: <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />&nbsp;&nbsp;
 
-- 🌱 Languages I’m learning next: 
-<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
+- 🌱 Languages I’m learning next: <img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
 
 ---
 
@@ -33,7 +32,7 @@ Curiosity 🧐 | Communicator 💬 | Dynamic ⚡
 
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" alt="PHP logo" title="PHP" height="25" /></a>
 &nbsp;
-<a href="https://www.mysql.com/fr/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Mysql-282C34?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" /></a>
+<a href="https://www.mysql.com/fr/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" /></a>
 &nbsp;
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20" alt="PHP logo" title="Laravel" height="25" /></a>
 &nbsp;
