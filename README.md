@@ -4,8 +4,6 @@
 
 - 🧠 Language I’m currently learning: <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />&nbsp;&nbsp;
 
-- 🌱 Languages I’m learning next: <img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
-
 ---
 
 ### Soft Skills
