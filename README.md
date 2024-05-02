@@ -34,11 +34,11 @@ Curiosity 🧐 | Communicator 💬 | Dynamic ⚡
 &nbsp;
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20" alt="Laravel logo" title="Laravel" height="25" /></a>
 &nbsp;
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js logo" height="25" /></a>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=5FA04E" alt="Node.js logo" height="25" /></a>
 &nbsp;
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js logo" height="25" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/express.js-282C34?logo=express&logoColor=white" alt="Express.js logo" height="25" /></a>
 &nbsp;
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB logo" height="25" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" height="25" /></a>
 
 
 #### Softwares
